@@ -13,7 +13,7 @@ body {
   }
 
   #hour-5 {
-      border-bottom: 1px solid #fff;
+      border-bottom: 1px solid black;
   }
   
   textarea{
@@ -46,13 +46,12 @@ body {
   
   .row {
     white-space: pre-wrap;
-    border-top: 1px solid white;;
+    border-top: 1px solid black;
   }
   
   .hour {
     color: #fff;
-    border-left: 1px solid #fff;
-    border-right: 1px solid #fff;
+    border-left: 1px solid black;
     padding-top: 2%;
   }
   
@@ -72,9 +71,9 @@ body {
   }
   
   .saveBtn {
-    border-left: 1px solid #fff;
+    border-left: 1px solid black;
     color: white;
-    border-right: 1px solid;
+    border-right: 1px solid black;
     border-radius: 0px;
   }
   
