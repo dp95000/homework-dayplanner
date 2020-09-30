@@ -10,3 +10,11 @@ This application uses a function gethours(); to get the current hour in military
 Ex: If the data variable is for hour 10 (10am) and H is greater than that, then the class for past (color gray) is applied.  If the data variable is for hour 11 (10am) and H is less than that, then the class for future (color green) is applied.  And ff the data variable is for hour 12 (12pm) and H is equal to that, then the class for present (color red) is applied.
 
 If the calendar app is viewed outside of normal business hours.  All blocks will have the past class applied.
+
+# Technologies Used
+
+* HTML
+* CSS
+* Javascript
+
+![Application Screenshot](images/screenshot.jpg)
