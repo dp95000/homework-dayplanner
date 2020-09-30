@@ -17,4 +17,4 @@ If the calendar app is viewed outside of normal business hours.  All blocks will
 * CSS
 * Javascript
 
-![Application Screenshot](images/screenshot.jpg)
+![Application Screenshot](assets/images/screenshot.jpg)
